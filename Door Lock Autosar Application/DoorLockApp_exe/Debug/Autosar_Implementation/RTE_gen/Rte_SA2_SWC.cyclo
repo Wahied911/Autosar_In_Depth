@@ -1,0 +1,2 @@
+../Autosar_Implementation/RTE_gen/Rte_SA2_SWC.c:24:7:Rte_IRead_SA2_SWC_GetDoorStatus_RP1_SA2_SWC_LedStatus	1
+../Autosar_Implementation/RTE_gen/Rte_SA2_SWC.c:28:16:Rte_Call_SA2_SWC_RP2_SA2_SWC_Led_Switch	2

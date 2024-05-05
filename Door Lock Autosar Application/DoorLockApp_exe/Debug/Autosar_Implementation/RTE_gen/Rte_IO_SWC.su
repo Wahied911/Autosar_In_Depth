@@ -1,0 +1,2 @@
+../Autosar_Implementation/RTE_gen/Rte_IO_SWC.c:23:6:Rte_IWrite_IO_SWC_ReadDoorStatus_PP_IO_SWC_DoorStatus	16	static
+../Autosar_Implementation/RTE_gen/Rte_IO_SWC.c:27:8:Rte_IWriteRef_IO_SWC_ReadDoorStatus_PP_IO_SWC_DoorStatus	4	static

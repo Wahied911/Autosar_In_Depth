@@ -1,0 +1,3 @@
+../Autosar_Implementation/RTE_gen/Rte_SA1_SWC.c:25:6:Rte_IWrite_SA1_SWC_GetDoorStatus_IO_SA1_PP_SA1_SWC_DoorStatus	1
+../Autosar_Implementation/RTE_gen/Rte_SA1_SWC.c:29:8:Rte_IWriteRef_SA1_SWC_GetDoorStatus_IO_SA1_PP_SA1_SWC_DoorStatus	1
+../Autosar_Implementation/RTE_gen/Rte_SA1_SWC.c:33:7:Rte_IRead_SA1_SWC_GetDoorStatus_IO_SA1_RP_SA1_SWC_DoorStatus	1

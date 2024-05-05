@@ -1,0 +1,3 @@
+../Autosar_Implementation/RTE_gen/Rte_Algo_App_SWC.c:25:7:Rte_IRead_Algo_App_SWC_GetDoorStatusRunnable_RP_APP_SWC_DoorStatus	4	static
+../Autosar_Implementation/RTE_gen/Rte_Algo_App_SWC.c:29:6:Rte_IWrite_Algo_App_SWC_GetDoorStatusRunnable_PP_APP_SWC_LedStatus	16	static
+../Autosar_Implementation/RTE_gen/Rte_Algo_App_SWC.c:33:8:Rte_IWriteRef_Algo_App_SWC_GetDoorStatusRunnable_PP_APP_SWC_LedStatus	4	static

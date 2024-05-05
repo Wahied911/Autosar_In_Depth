@@ -1,0 +1,6 @@
+../Src/GPIO_program.c:13:6:MGPIO_VidSetPinDirection	16	static
+../Src/GPIO_program.c:95:6:MGPIO_VidSetPinValue	16	static
+../Src/GPIO_program.c:120:4:MGPIO_VidGetPinValue	24	static
+../Src/GPIO_program.c:138:6:MGPIO_VidSetPin_CLK	16	static
+../Src/GPIO_program.c:162:6:MGPIO_VidSetPortDirection	16	static
+../Src/GPIO_program.c:195:6:MGPIO_VidSetPORTVALUE	16	static

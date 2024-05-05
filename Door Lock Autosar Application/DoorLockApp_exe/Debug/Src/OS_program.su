@@ -1,0 +1,6 @@
+../Src/OS_program.c:12:6:SOS_voidCreateTask	24	static
+../Src/OS_program.c:20:6:SOS_voidStart	8	static
+../Src/OS_program.c:29:6:scheduler	16	static
+../Src/OS_program.c:46:6:void_Suspend_Task	16	static
+../Src/OS_program.c:51:6:void_Resume_Task	16	static
+../Src/OS_program.c:58:6:void_Delete_Task	24	static

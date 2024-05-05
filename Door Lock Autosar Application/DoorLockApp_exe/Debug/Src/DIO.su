@@ -1,0 +1,2 @@
+../Src/DIO.c:9:15:Dio_ReadChannel	8	static
+../Src/DIO.c:13:6:Dio_WriteChannel	16	static
